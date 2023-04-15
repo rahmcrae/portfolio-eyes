@@ -1,12 +1,9 @@
-# PACMAN PROJECT
+# EYES PROJECT
 
-### Repository for recreating the pacman game
+### Basic implementation of eyes following a cursor on the screen
 
 ## Goal
-##### ✨ Create playable pacman game accounting for different gameplay scenarios
-##### ✨ Include edge detection
-##### ✨ Include Animation
-##### ✨ Allow user to play again
+##### ✨ Create eyes & include mouse detection
 
 ## Limitations / Future Improvements
 ##### 🔍 Add edge detection for pupils so they stay in the eye when cursor is off-screen
@@ -14,10 +11,19 @@
 ## Screenshots / Demo
 
 ##### Screenshot
-![Screenshot 2023-04-15 at 1 49 05 PM](https://user-images.githubusercontent.com/63305557/232245831-0c93c8ab-2107-41a0-ba2f-bd2593f6d042.png)
+<img width="448" alt="Screenshot 2023-04-15 at 4 21 24 PM" src="https://user-images.githubusercontent.com/63305557/232251644-f77803e8-1666-4592-b092-858131f372b7.png">
+
 
 ##### Demo
-[Demo](https://user-images.githubusercontent.com/63305557/232246370-e6864517-1f4f-4595-bd09-54aa0d3f63b9.mp4)
+[Demo](https://user-images.githubusercontent.com/63305557/232251799-50e9c4cf-a22d-46d8-b252-3e966a2c0d03.mp4)
+
+
+
+
+
+
+
+
 
 
 
