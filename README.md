@@ -8,10 +8,8 @@
 ##### ✨ Include Animation
 ##### ✨ Allow user to play again
 
-## Limitations / Bugs
-##### 🔍 Gameplay speed increases after user loses & presses play again
-##### 🔍 Game doesn't fully reset when users presess play again
-##### 🔍 Premature game completion before all pellets are eaten
+## Limitations / Future Improvements
+##### 🔍 Add edge detection for pupils so they stay in the eye when cursor is off-screen
 
 ## Screenshots / Demo
 
