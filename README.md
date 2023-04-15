@@ -5,6 +5,9 @@
 ## Goal
 ##### ✨ Create eyes & include mouse detection
 
+## How To Run
+##### Drag `index.html` file into browser, after cloning repo or setting up key files (3): `index.html`, `script.js`, `style.css`
+
 ## Limitations / Future Improvements
 ##### 🔍 Add edge detection for pupils so they stay in the eye when cursor is off-screen
 
